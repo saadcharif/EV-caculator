@@ -27,4 +27,4 @@ There are notes above the caclculations used in utilities.js to work out this ap
 
 AnimatedNumber has been imported from React just to provide a "cool" way of showing the result.
 
-All colors used have just been assumed a fit to the current Elmtronics website and everything can be modified if required.
+All colors used have just been assumed a fit to the current  website and everything can be modified if required.
